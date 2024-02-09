@@ -26,6 +26,8 @@ const swiperTestimonial = new Swiper('.testimonial_swiper', {
   loop: true,
   spaceBetween: 32,
   grabCursor: true,
+  autoplay: true,
+  
   
   pagination: {
     el: '.swiper-pagination',
